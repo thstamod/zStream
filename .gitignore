@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# custom
+client/_notes
+client/src/config/_apiKeys\.js
